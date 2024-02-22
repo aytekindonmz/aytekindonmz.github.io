@@ -1,11 +1,9 @@
 ---
-title: "Mars Rover Projesi "
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+title: "Mars Rover Projesi"
+collection: Projeler
+type: "Dönem Projesi"
+date: 15.12.2022
+location: "İzmir, Türkiye"
 ---
 
 
