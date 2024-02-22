@@ -1,10 +1,9 @@
 ---
 title: "Hidroksipropil Metil Selüloz (HPMC) Çözeltisi Hazırlamak İçin Bir Karıştırma Mekanizması Tasarımı"
-collection: teaching
-type: "Undergraduate"
-permalink: /teaching/2014-spring-teaching-1
+collection: Projeler
+type: "Dönem Projesi"
 permalink: /files/Aytekin Dönmez ENG401 FINAL REPORT.pdf
-venue: "University 1, Department"
+
 date: 15.01.2024
 location: "İzmir, Türkiye"
 ---
