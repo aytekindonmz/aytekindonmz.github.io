@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Hidroksipropil Metil Selüloz (HPMC) Çözeltisi Hazırlamak İçin Bir Karıştırma Mekanizması Tasarımı"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate"
 permalink: /teaching/2014-spring-teaching-1
+permalink: /files/Aytekin Dönmez ENG401 FINAL REPORT.pdf
 venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 15.01.2024
+location: "İzmir, Türkiye"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+  + Hidroksipropil Metil Selülozun (HPMC) işlevlerini çeşitli uygulamalar için artırmak amacıyla özel bir karıştırma mekanizması geliştirdim. Bu mekanizma, DC motor ve Nema-17 Step Motor tarafından kontrol edilen çift sistemli bir yaklaşıma dayanmaktadır. Geliştirdiğim mekanizma, HPMC'nin özelliklerini artırmak için temel bir bileşen olarak belirlenmiştir. Karıştırma sürecindeki sıcaklık kontrolü gibi diğer unsurlar da önemlidir, ancak projenin ana amacı mekanizmanın işlevselliği ve etkinliğidir. Bu mekanizma, sağlık sektörü başta olmak üzere çeşitli endüstrilerde kullanım potansiyeline sahiptir.
