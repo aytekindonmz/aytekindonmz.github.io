@@ -1,11 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Eğitim"
 ---
 
-<! -- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
--->
 
 # Eğitim
 ## İzmir Katip Çelebi Üniversitesi
@@ -25,7 +21,7 @@ collection: portfolio
 ### Sayısal Bölümü Ortaöğretim Eğitimi 
   GANO 85/100  -  Eylül 2015/Haziran 2019
 
-# Deneyim
+title: "Deneyim"
 ## Nobel Internship
 ### Stajyer / Eylül 2023 - Devam Etmekte
 + Nobel Navigators, gençleri güçlendiren küresel bir sosyal öğrenme ağıdır. Stajım süresince, Nobel Stajları'nın sunduğu fırsatlarla yeni beceriler geliştirdim ve uluslararası deneyim kazandım. Dört farklı kurs aldım ve bir kursun öğretiminde liderlik yapma şansı elde ettim. Bu süreçte, sosyal ve teknik becerilerimi geliştirme fırsatı buldum. Ayrıca, uluslararası bir organizasyonda çalışma ortamını deneyimledim. Bu süreçte dünyanın dört bir yanından harika, akıllı ve motive insanlarla tanıştım ve takım çalışması gibi önemli becerileri öğrenme fırsatı elde ettim.
@@ -40,29 +36,8 @@ Staj sürecim boyunca Kocaer Çelik'teki işleyiş hakkında derinlemesine bir a
 + Tadep, otomotiv sektöründe yedek parça imalatı yapan bir firma. Stajım süresince, gelen siparişlere göre CNC makinesinde üretilecek parçaların çizimlerini yaparak üretim sürecini denetledim. Ayrıca, üretilen parçaların kalite kontrolünü yaparak müşteri memnuniyetine katkı sağladım.
 
 
-# Projeler
 
-## Hidroksipropil Metil Selüloz (HPMC) Çözeltisi Hazırlamak İçin Bir Karıştırma Mekanizması Tasarımı
-  
-  + Hidroksipropil Metil Selülozun (HPMC) işlevlerini çeşitli uygulamalar için artırmak amacıyla özel bir karıştırma mekanizması geliştirdim. Bu mekanizma, DC motor ve Nema-17 Step Motor tarafından kontrol edilen çift sistemli bir yaklaşıma dayanmaktadır. Geliştirdiğim mekanizma, HPMC'nin özelliklerini artırmak için temel bir bileşen olarak belirlenmiştir. Karıştırma sürecindeki sıcaklık kontrolü gibi diğer unsurlar da önemlidir, ancak projenin ana amacı mekanizmanın işlevselliği ve etkinliğidir. Bu mekanizma, sağlık sektörü başta olmak üzere çeşitli endüstrilerde kullanım potansiyeline sahiptir.
-
-    
-## Actuated Joint Design
-  
-  + Bu proje, mekatronik sistemlerde hassas kontrol mekanizmalarının önemini vurgulamak üzere geliştirdim bir Arduino tabanlı servo motor kontrol sistemini içerir. Potansiyometre kullanılarak konum kontrolü sağlanırken, yük hücresi kullanılarak kuvvet kontrolü gerçekleştirilir. Sistem, kullanıcı tarafından belirlenen konumu hassas bir şekilde belirler ve kuvvet uygulanmadığında sabit durur. Gerçek zamanlı olarak ulaşılan konum ve kuvvet değerleri bir OLED ekranında görüntülenir. Bu proje, mekatronik sistemlerde kontrol için kullanılan teknolojilerin entegrasyonunu gösterirken, mühendislik becerilerini pratik uygulamalarla birleştirerek öne çıkar.
-
-  
-## Mars Rover Projesi 
-
-  + Bu projede, belirli bir rotadaki engelleri aşabilen bir mekanizma geliştirdim. Bu hedefe ulaşmak için Alizade ve Grubler yöntemlerini kullanarak özgün bir mekanizma oluşturdum ve uzaktan komut sistemiyle kontrol edilebilir hale getirdim. Bu stratejik yaklaşım, rotadaki engelleri verimli bir şekilde aşmak için tasarlanmış özel bir mekanizma geliştirdim.
-
-
-## Malzeme Test Makinesi Tasarımı
-  
-  + Bu projede, bir gerilme-gerinme test makinesi geliştirdim. Makine, çekme ve uzama değişikliklerini test eder ve bunları gerilme ve gerinme değerlerine dönüştürerek aynı anda grafik üzerinde gözlemlenmesini sağlar. Test edilen malzemenin dayanıklılığı çok iyi bilinmelidir ve bu bilgi, makinenin tasarımını şekillendirir. Test, bir numunenin iki çene arasına yerleştirilmesiyle gerçekleştirilir ve numune çekilerek gerilme ve gerinme değerleri belirlenir. Bu proje, malzemelerin fiziksel özelliklerini belirlemek için önemli bir araçtır ve doğru ve etkili bir şekilde geliştirdim.
-
-
-# Teknik Becerilerim 
+title: "Teknik Becerilerim "
   + Microsoft Office 
   + Solidworks CAD
   + Autodesk AutoCAD 
