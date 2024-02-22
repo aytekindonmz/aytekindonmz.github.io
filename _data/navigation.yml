@@ -5,13 +5,12 @@ main:
 
   #- title: "Talks"
   #   url: /talks/    
+  - title: "Portfolyo"
+    url: /portfolio/
 
   - title: "Projeler"
     url: /teaching/    
-    
-  - title: "Portfolyo"
-    url: /portfolio/
-        
+           
   #- title: "Blog Posts"
   # url: /year-archive/
     
