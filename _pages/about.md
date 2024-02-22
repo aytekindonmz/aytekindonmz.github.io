@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
 
 # Hakkımda 
 Mekatronik mühendisliği dördüncü sınıf öğrencisiyim ve bu alandaki tutkum beni iş dünyasında başarılı kariyerler peşinde koşmaya itiyor. Tadep'te otomotiv sektöründe yedek parça tasarımı ve imalatı hakkında deneyim kazandım. Bu süreçte CNC makineleri üzerinde çalışma ve kalite kontrol süreçlerini yönetme becerileri edindim. Kocaer Çelik'teki staj sürecim ise endüstriyel otomasyon alanında derin bir anlayış geliştirmemi sağladı ve PLC programlama konusundaki bilgimi artırdı. Nobel Navigators staj programı kapsamında uluslararası bir organizasyonda çalışma deneyimi kazandım ve liderlik becerilerimi geliştirdim. Okuldaki projeler ise problem çözme yeteneklerimi ve yaratıcılığımı sürekli olarak ilerletmemde önemli bir rol oynadı.
