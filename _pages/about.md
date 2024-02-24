@@ -11,8 +11,8 @@ redirect_from:
 Bu deneyimlerle donanmış olarak, mekatronik mühendisliği alanındaki kariyerime kararlılıkla devam etmeyi ve endüstride inovasyon ve verimlilikte önemli bir rol oynamayı hedefliyorum.
 
 # Eğitim
-## [İzmir Katip Çelebi Üniversitesi](https://ikcu.edu.tr/)
-### [Mekatronik Mühendisliği Lisans Eğitimi](https://muh.ikcu.edu.tr/)
+## [İzmir Katip Çelebi Üniversitesi](https://ikcu.edu.tr/){:target="_blank"}
+### [Mekatronik Mühendisliği Lisans Eğitimi](https://muh.ikcu.edu.tr/){:target="_blank"}
   GANO 2.68/4.00  -  Eylül 2019/Haziran 2024
 
 ### Teknik Seçmeli dersler;
@@ -24,21 +24,21 @@ Bu deneyimlerle donanmış olarak, mekatronik mühendisliği alanındaki kariyer
   + PID Kontrol
   + Gerçek Zamanlı Kontrol 
 
-## [Turan Erdoğan Yılamz Fen Lisesi](https://teyfenlisesi.meb.k12.tr/tema/index.php) 
+## [Turan Erdoğan Yılamz Fen Lisesi](https://teyfenlisesi.meb.k12.tr/tema/index.php){:target="_blank"} 
 ### Sayısal Bölümü Ortaöğretim Eğitimi 
   GANO 78/100  -  Eylül 2015/Haziran 2019
 
 # Deneyim
-## [Nobel Internship](https://nobelnavigators.com/internship/)
+## [Nobel Internship](https://nobelnavigators.com/internship/){:target="_blank"}
 ### Stajyer / Eylül 2023 - Devam Etmekte
-+ [Nobel Navigators](https://nobelnavigators.com/), gençleri güçlendiren küresel bir sosyal öğrenme ağıdır. Stajım süresince, Nobel Stajları'nın sunduğu fırsatlarla yeni beceriler geliştirdim ve uluslararası deneyim kazandım. Dört farklı kurs aldım ve bir kursun öğretiminde liderlik yapma şansı elde ettim. Bu süreçte, sosyal ve teknik becerilerimi geliştirme fırsatı buldum. Ayrıca, uluslararası bir organizasyonda çalışma ortamını deneyimledim. Bu süreçte dünyanın dört bir yanından harika, akıllı ve motive insanlarla tanıştım ve takım çalışması gibi önemli becerileri öğrenme fırsatı elde ettim.
++ [Nobel Navigators](https://nobelnavigators.com/){:target="_blank"}, gençleri güçlendiren küresel bir sosyal öğrenme ağıdır. Stajım süresince, Nobel Stajları'nın sunduğu fırsatlarla yeni beceriler geliştirdim ve uluslararası deneyim kazandım. Dört farklı kurs aldım ve bir kursun öğretiminde liderlik yapma şansı elde ettim. Bu süreçte, sosyal ve teknik becerilerimi geliştirme fırsatı buldum. Ayrıca, uluslararası bir organizasyonda çalışma ortamını deneyimledim. Bu süreçte dünyanın dört bir yanından harika, akıllı ve motive insanlarla tanıştım ve takım çalışması gibi önemli becerileri öğrenme fırsatı elde ettim.
 
-## [Kocaer Çelik](https://www.kocaersteel.com/)
+## [Kocaer Çelik](https://www.kocaersteel.com/){:target="_blank"}
 ### Stajyer Mühendis / Ağustos 2023 - Eylül 2023
 + Stajyer olarak Kocaer Çelik'te çalıştım süreçte önemli beceriler kazandım. Büyük bir fabrikanın karmaşık işleyişini öğrenme fırsatı buldum ve birçok sorunun çözümünde aktif rol oynadım. Özellikle PLC kartları, pano tasarımları ve kodlamaları üzerinde çalışarak PLC programlama ve otomasyon alanında deneyim kazandım. Bu süreç, endüstriyel otomasyonun önemini ve iş süreçlerinin optimize edilmesiyle sağlanabilecek verimliliği daha iyi anlamama olanak sağladı.
 Staj sürecim boyunca Kocaer Çelik'teki işleyiş hakkında derinlemesine bir anlayış geliştirme fırsatı buldum. Fabrikanın işleyişi, üretim süreçleri ve otomasyon sistemlerinin önemi konularında pratik bilgi edindim. Bu deneyim, endüstriyel alandaki pratik becerilerimi geliştirmeme ve kariyerimde ilerlememe büyük katkı sağladı.
   
-## [Tadep Otomotiv](https://www.tadep.com/)
+## [Tadep Otomotiv](https://www.tadep.com/){:target="_blank"}
 ### Stajyer Mühendis / Temmuz 2023 - Ağustos 2023 
 + Tadep, otomotiv sektöründe yedek parça imalatı yapan bir firma. Stajım süresince, gelen siparişlere göre CNC makinesinde üretilecek parçaların çizimlerini yaparak üretim sürecini denetledim. Ayrıca, üretilen parçaların kalite kontrolünü yaparak müşteri memnuniyetine katkı sağladım.
 
