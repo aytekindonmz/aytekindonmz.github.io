@@ -42,9 +42,17 @@ Staj sürecim boyunca Kocaer Çelik'teki işleyiş hakkında derinlemesine bir a
 + Tadep, otomotiv sektöründe yedek parça imalatı yapan bir firma. Stajım süresince, gelen siparişlere göre CNC makinesinde üretilecek parçaların çizimlerini yaparak üretim sürecini denetledim. Ayrıca, üretilen parçaların kalite kontrolünü yaparak müşteri memnuniyetine katkı sağladım.
 
 # [Projeler](https://aytekindonmz.github.io/portfolio/){:target="_blank"} 
+ * 2 Serbestlik Derecesine Sahip Bir Oyunlaştırılmış Rehabilitasyon Robotunun Tasarımı ve Üretimi
+ * İstenilen Malzeme Özelliklerine Sahip Enjekte Edilebilir Kemik Grefti Hidroksipropil Metilselüloz (HPMC) Çözeltisi Hazırlamak İçin Karışım Mekanizması Tasarımı
+ * PID Kontrol Projesi
+ * Actuated Joint Tasarımı
+ * Uzaktan Kontrol Edilebilen, Engelden Kaçan Mobil Robot Tasarımı
+ * Engelden Kaçınan Mobil Robot Tasarımı
+ * Mars Keşif Aracı Projesi
+ * Gerilme – Deformasyon Test Makinesi Tasarımı
+ * Place, Shoot, Basket!”
 
 # Beceriler
-======
 * Teknik Becerilerim 
   * Microsoft Office 
   * Solidworks CAD
@@ -63,7 +71,8 @@ Staj sürecim boyunca Kocaer Çelik'teki işleyiş hakkında derinlemesine bir a
   * Liderlik 
   * Stres yönetimi yapabilme
 
-
+# Sertifikalar
+  * [Nobel Intership](/files/Aytekin Dönmez Internship Certificate[592].pdf)
 
 Publications
 ======
