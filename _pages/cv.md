@@ -72,7 +72,12 @@ Staj sürecim boyunca Kocaer Çelik'teki işleyiş hakkında derinlemesine bir a
   * Stres yönetimi yapabilme
 
 # Sertifikalar
-  * [Nobel Intership](/files/Aytekin Dönmez Internship Certificate[592].pdf)
+  * [Nobel Intership](/files/Aytekin Dönmez Internship Certificate[592].pdf){:target="_blank"}
+  * [Nobel Networking](/files/Networking Mastery Badge[598].png){:target="_blank"}
+  * [Bilgi Teknolojilerine Giriş](/files/Bilgi_Teknolojilerine_Giri__Sertifika.pdf){:target="_blank"}
+  * [Etkili İletişim Stratejileri](/files/Etkili__leti_im_Stratejileri_Sertifika.pdf){:target="_blank"}
+  * [Topluluk Önünde Konuşma ve Etkili Sunum Teknikleri](/files/Topluluk_Önünde_Konu_ma_ve_Etkili_Sunum_Teknikleri_Sertifika.pdf){:target="_blank"}
+
 
 Publications
 ======
