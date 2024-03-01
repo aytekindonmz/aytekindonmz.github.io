@@ -2,10 +2,11 @@
 main:
  #- title: "Publications"
   #  url: /publications/
-
+  - title: "Portfolyo"
+    url: /cv/
   #- title: "Talks"
   #   url: /talks/    
-  - title: "Portfolyo"
+  - title: "Projeler"
     url: /portfolio/
 
   - title: "Projeler"
