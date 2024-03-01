@@ -43,14 +43,27 @@ Staj sürecim boyunca Kocaer Çelik'teki işleyiş hakkında derinlemesine bir a
 
 # [Projeler](https://aytekindonmz.github.io/portfolio/){:target="_blank"} 
 
-Skills
+# Beceriler
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teknik Becerilerim 
+  * Microsoft Office 
+  * Solidworks CAD
+  * Autodesk AutoCAD 
+  * Autodesk Inventor 
+  * Matlab & Simulink
+  * TIA Portal 
+  * Proteus Design Suite
+* Soft Becerilerim
+  * Problem çözme, pratik çözümler üretebilme
+  * Organizasyon, düzen ve planlama becerileri
+  * Pozitif, yapıcı yaklaşıma sahip olma
+  * Analatik düşünme 
+  * Yaratıcı düşünme
+  * İş ahlakı ve etiklerine uyma
+  * Liderlik 
+  * Stres yönetimi yapabilme
+
+
 
 Publications
 ======
