@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Portfolyo"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,29 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Eğitim
+## İzmir Katip Çelebi Üniversitesi
+### Mekatronik Mühendisliği Lisans Eğitimi
+  GANO 2.68/4.00  -  Eylül 2019/Haziran 2024
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Teknik Seçmeli dersler;
+  + Endüstüriyel Otomasyon 
+  + Robot Teknolojilerine Giriş
+  + Mekatronikte Makine Görmesi 
+  + İleri Programlama 
+  + Mühendislik Tasarımı ve Problem Çözümü 
+  + PID Kontrol
+  + Gerçek Zamanlı Kontrol 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Turan Erdoğan Yılamz Fen Lisesi
+### Sayısal Bölümü Ortaöğretim Eğitimi 
+  GANO 78/100  -  Eylül 2015/Haziran 2019
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+# Deneyim
+## Nobel Internship
+### Stajyer / Eylül 2023 - Devam Etmekte
++ Nobel Navigators, gençleri güçlendiren küresel bir sosyal öğrenme ağıdır. Stajım süresince, Nobel Stajları'nın sunduğu fırsatlarla yeni beceriler geliştirdim ve uluslararası deneyim kazandım. Dört farklı kurs aldım ve bir kursun öğretiminde liderlik yapma şansı elde ettim. Bu süreçte, sosyal ve teknik becerilerimi geliştirme fırsatı buldum. Ayrıca, uluslararası bir organizasyonda çalışma ortamını deneyimledim. Bu süreçte dünyanın dört bir yanından harika, akıllı ve motive insanlarla tanıştım ve takım çalışması gibi önemli becerileri öğrenme fırsatı elde ettim.
+
+## Kocaer Çelik
+### Stajyer Mühendis / Ağustos 2023 - Eylül 2023
++ Stajyer olarak Kocaer Çelik'te çalıştım süreçte önemli beceriler kazandım. Büyük bir fabrikanın karmaşık işleyişini öğrenme fırsatı buldum ve birçok sorunun çözümünde aktif rol oynadım. Özellikle PLC kartları, pano tasarımları ve kodlamaları üzerinde çalışarak PLC programlama ve otomasyon alanında deneyim kazandım. Bu süreç, endüstriyel otomasyonun önemini ve iş süreçlerinin optimize edilmesiyle sağlanabilecek verimliliği daha iyi anlamama olanak sağladı.
+Staj sürecim boyunca Kocaer Çelik'teki işleyiş hakkında derinlemesine bir anlayış geliştirme fırsatı buldum. Fabrikanın işleyişi, üretim süreçleri ve otomasyon sistemlerinin önemi konularında pratik bilgi edindim. Bu deneyim, endüstriyel alandaki pratik becerilerimi geliştirmeme ve kariyerimde ilerlememe büyük katkı sağladı.
   
+## Tadep Otomotiv
+### Stajyer Mühendis / Temmuz 2023 - Ağustos 2023 
++ Tadep, otomotiv sektöründe yedek parça imalatı yapan bir firma. Stajım süresince, gelen siparişlere göre CNC makinesinde üretilecek parçaların çizimlerini yaparak üretim sürecini denetledim. Ayrıca, üretilen parçaların kalite kontrolünü yaparak müşteri memnuniyetine katkı sağladım.
+
+# [Projeler](https://aytekindonmz.github.io/portfolio/){:target="_blank"} 
+
 Skills
 ======
 * Skill 1
