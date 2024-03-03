@@ -12,11 +12,11 @@ main:
   #- title: "Projeler"
   #  url: /teaching/    
            
-  #- title: "Blog Posts"
-  # url: /year-archive/
+  - title: "Özgeçmiş2"
+   url: /cv1/
     
   - title: "Özgeçmiş"
-    url: /files/Aytekin Dönmez Özgeçmiş.pdf {:target="_blank"}
+    url: /files/Aytekin Dönmez Özgeçmiş.pdf
   
     #- title: "Guide"
     # url: /markdown/
