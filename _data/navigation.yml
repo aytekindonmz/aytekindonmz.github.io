@@ -12,8 +12,8 @@ main:
   #- title: "Projeler"
   #  url: /teaching/    
            
-  - title: "Özgeçmiş2"
-   url: /cv1/
+  #- title: "Özgeçmiş2"
+  #  url: /cv1/
     
   - title: "Özgeçmiş"
     url: /files/Aytekin Dönmez Özgeçmiş.pdf
